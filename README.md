@@ -2,7 +2,7 @@
 
 Monitoring heavy traffic is becoming a challenge with increase in the city traffic by each passing day. What if there is a smart vision based solution which harnesses the feed from cctv cameras at the traffic signals and gives the administration an accurate count of different vehicles that pass through a particular junction or area on a daily basis. This would help management to deploy necessary workforce and also manage the traffic signals more efficiently. This app, built on Nvidia's Deepsteam SDK, would also help corporate buildings, commercial complexes to manage their parking systems based on exact number of vehicles which have entered and exited a specific premises, avoiding overcrowding and less wait time. It also identifies the different vehicle types like car, bus, bike, truck to help the management understand the traffic and number of vehicles from each vehicle type.  
 
-![VehicleCount](misc/vehicles.png)
+![VehicleCount](file:///home/aakash/VehicleCount-Deepstream/misc/jetson.jpg)
 
 ## Citations
 
