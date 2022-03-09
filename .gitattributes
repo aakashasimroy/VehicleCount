@@ -1,0 +1,2 @@
+models/YOLOv3WildFires/yolov3-fire.weights filter=lfs diff=lfs merge=lfs -text
+models/YOLOV5sVehicleModel/YOLOV5sVehicle.wts filter=lfs diff=lfs merge=lfs -text
